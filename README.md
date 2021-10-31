@@ -1,6 +1,6 @@
 <h1>Hi 👋, I&#39;m Hakan &Ouml;ZER</h1>
 
-<h3>BackEnd, FrontEnd and Mobile developer from Turkey, 15 Years Experienced.</h3>
+<p>I am a computer engineer in Turkey, <strong>BackEnd</strong>, <strong>FrontEnd</strong> and <strong>Mobile</strong> developer, I have 15 years of experience.</p>
 
 <h3>Connect with me:</h3>
 
