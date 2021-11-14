@@ -2,6 +2,8 @@
 
 <p>I&#39;m computer engineer in Turkey, <strong>BackEnd</strong>, <strong>FrontEnd</strong> and <strong>Mobile</strong> developer, I have 15 years of experience.</p>
 
+[My Personal Site](https://www.hakanozer.com.tr)
+
 <h3>Connect with me:</h3>
 
 <p><a href="https://linkedin.com/in/hakanozer02" target="_blank"><img alt="hakanozer02" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;<a href="https://twitter.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;<a href="https://fb.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;<a href="https://instagram.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:40px; width:40px" /></a></p>
