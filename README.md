@@ -6,7 +6,7 @@
 
 <h3>Connect with me:</h3>
 
-<p><a href="https://linkedin.com/in/hakanozer02" target="_blank"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/linked-in-alt.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;<a href="https://twitter.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/twitter.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;<a href="https://fb.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/facebook.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;<a href="https://instagram.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/instagram.svg" style="height:40px; width:40px" /></a></p>
+<p><a href="https://linkedin.com/in/hakanozer02" target="_blank"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/linked-in-alt.svg" width="40" /></a>&nbsp; &nbsp;<a href="https://twitter.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/twitter.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;<a href="https://fb.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/facebook.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;<a href="https://instagram.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/instagram.svg" style="height:40px; width:40px" /></a></p>
 
 <h3>Languages:</h3>
 
